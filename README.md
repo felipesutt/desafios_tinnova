@@ -8,7 +8,7 @@ Esta pasta contém os exercícios de 1 a 4 desenvolvidos em python
 
 ## Pasta Desafios_JS
 
-Esta pasta contém o ambiente do exercício 4
+Esta pasta contém o ambiente do exercício 5
 
 ## CADASTRO DE VEÍCULOS
 
