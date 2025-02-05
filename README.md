@@ -1,16 +1,15 @@
-# Desafios TINNOVA
-
-Estes desafios foram propostos pela TINNOVA
+# Desafios JS e PYTHON resolvidos
 
 ## Pasta Desafios_python
 
 Esta pasta contém os exercícios de 1 a 4 desenvolvidos em python
 
-## Pasta Desafios_JS
+- **Exercecío 1:** Votos em relação ao total de eleitores.
+- **Exercecío 2:** Algoritmo Bubble Sort.
+- **Exercecío 3:** Fatorial.
+- **Exercecío 4:** Soma dos multiplos de 3 ou 5.
 
-Esta pasta contém o ambiente do exercício 5
-
-## CADASTRO DE VEÍCULOS
+## CADASTRO DE VEÍCULOS (Feito em JS)
 
 Este projeto é um sistema para cadastro, edição, filtragem e deleção de veículos. Ele é composto por um frontend desenvolvido em React e Vite, uma API backend construída com Node.js e Express, e um banco de dados PostgreSQL.
 
